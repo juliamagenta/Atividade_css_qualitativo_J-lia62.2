@@ -1,1 +1,39 @@
-
+body{ 
+    background-color: rgb(196, 245, 148);
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+     letter-spacing: 5px;
+     text-shadow: 3px 3px 8px black;
+     background-color: rgb(191, 118, 211);
+     text-align: center;
+}
+.perfil{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    object-fit: cover;
+    display: block;
+    margin: 40px auto 0;
+     object-fit: cover;
+     object-position: right center;
+}
+p{
+    color: rgb(169, 10, 178);
+}
+legend{
+    color: rgb(255, 255, 255);
+    font-style: unset;
+    text-align: center;
+}
+footer{
+    background-color: rgb(146, 115, 175);
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 8px black;
+}
+.letra2{
+    color: rgb(143, 14, 109);
+    font-size:large;
+    font-style: inherit;
+}
